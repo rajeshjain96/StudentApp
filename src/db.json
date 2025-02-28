@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "id": "cdb6",
+      "rollno": "66",
+      "name": "Rahul Joshi",
+      "marks": "63.22"
+    },
+    {
+      "id": "5928",
+      "rollno": "25",
+      "name": "Sunita Pawar",
+      "marks": "89.5"
+    },
+    {
+      "id": "4a0c",
+      "rollno": "17",
+      "name": "Lata Waghmare",
+      "marks": "67.3"
+    },
+    {
+      "id": "0924",
+      "rollno": "19",
+      "name": "Sujay Narkhede",
+      "marks": "45"
+    },
+    {
+      "id": "e549",
+      "rollno": "70",
+      "name": "Nitin Kolhe",
+      "marks": "89.55"
+    }
+  ],
+  "users": [
+    {
+      "id": "2f4d",
+      "username": "Rajesh Jain",
+      "emailid": "j_rajesh@hotmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "5eff",
+      "username": "temp",
+      "emailid": "temp@gmail.com",
+      "password": "abcd"
+    },
+    {
+      "id": "da67",
+      "username": "Sunil Patil",
+      "emailid": "sp@gmail.com",
+      "password": "abcdef"
+    },
+    {
+      "id": "88ac",
+      "username": "Sangita Kumari",
+      "emailid": "sg@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
